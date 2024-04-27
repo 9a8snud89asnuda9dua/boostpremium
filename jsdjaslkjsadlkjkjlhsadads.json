@@ -1,5 +1,5 @@
 {
-  "licenses":
+  "licenses": [
     {
       "username": "Stritixx",
       "password": "best"
@@ -8,4 +8,5 @@
       "username": "Gucio",
       "password": "test"
     }
+  ]
 }
