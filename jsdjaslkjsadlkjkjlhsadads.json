@@ -47,6 +47,10 @@
     {
       "username": "astro",
       "password": "astro123@"
+    },
+    {
+      "username": "tniter",
+      "password": "1234"
     }
   ]
 }
