@@ -57,6 +57,11 @@
       "username": "xnexu",
       "password": "pet123",
       "expire": "28.07.2024"
+    },
+    {
+      "username": "Terminator",
+      "password": "Terminator123",
+      "expire": "lifetime"
     }
   ]
 }
