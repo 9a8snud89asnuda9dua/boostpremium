@@ -1,9 +1,8 @@
 {
   "licenses": [
     {
-      "username": ".",
-      "password": "..",
-      "expire": "lifetime"
+      "username": "a",
+      "password": "ab",
     }
   ]
 }
